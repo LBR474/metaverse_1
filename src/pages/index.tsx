@@ -19,7 +19,7 @@ import { OrbitControls, Stats, useHelper, useTexture, TransformControls } from "
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 
 // my component imports
-import MyAnimatingBox from "@/components/MyAnimatingBox";
+//import MyAnimatingBox from "@/components/MyAnimatingBox";
 import { NextPage } from "next";
 import Lights from "@/components/Lights";
 import Ground from "@/components/Ground";
